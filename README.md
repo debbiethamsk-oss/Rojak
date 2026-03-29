@@ -14,12 +14,27 @@ Describe briefly in 2-3 sentences what your project is about. About 250 characte
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+Which problems does your idea solve? How common or frequent is this problem? 
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+IDEAS TO SOLVE THE COMMON PROBLEMS
+* problem 1 - physical limitation of aging people can hinder or restrict physical activities.
+* problem 2 - older people generally gets less time with their younger family, friends, etc
+* problem 3 - ideas / activities that can spur self reliant , independance, fulfilment -
+              not necessarily  to encourage purposeful alleanation or isloation
+
+What is your personal motivation? 
+* being 67 face with these issues
+* know many similar aging people have undergo similar especially being alone or rather with little time with family,
+  due vast distances from family and loved ones
+* find being alone does not have to be being lonely or isolated
+* infact being queitly alone can also be enriching, fulfulling in a different phase of ones life
+
+
+Why is this topic important or interesting?
+* it is one way to go through or tread on new areas /  grounds smtoionally, spiritually
+* being independant and fulfiling on these areas within oneself - as in look for peace and happiness within
+* omit or reduce dependancy of source of my own happiness and freedom of the spirit and the mind
+* it may sound woodooish or spiritually inclined (maybe it is in some sense) but i feel one goes back to self as one ages
 
 
 ## How is it used?

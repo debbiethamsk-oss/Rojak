@@ -41,6 +41,11 @@ Why is this topic important or interesting?
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
+SOLUTION -Process of usiing it 
+It is not a solution per say but more of a guide.  A guide really for one who may find it workable , complementary to one's one way of going about one daily life being an elderly.   Perhaps the guide is more of a methodology that might make another feel not so alone or sharing alternative ways to cope with living as an elderly person.  Or not !
+
+
+
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
 
@@ -50,8 +55,6 @@ Once you upload an image to your repository, you can link link to it like this (
 
 
 
-
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
 
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">

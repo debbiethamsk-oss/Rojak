@@ -6,8 +6,7 @@ Guide for older people to be more outdoors, physically active and sociable.
 As we grow older, we become less active, mobile or disinterested in being otherwise.
 this project is focus on how to encourage , movtivate  the reverse.
 Additionally for individuals who love being alone, these activities can spur ones attitude, 
-self-intiated / dependant activities so as to feel inclusive and not lonesome and most importantly to feel fulfiled
-and not alineated or isolated 
+self-intiated / dependant activities so as to feel inclusive, fulfilled  and not lonesome, alineated or isolated.
 
 
 Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 

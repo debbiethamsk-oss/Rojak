@@ -23,16 +23,16 @@ IDEAS TO SOLVE THE COMMON PROBLEMS
               not necessarily  to encourage purposeful alleanation or isloation
 
 What is your personal motivation? 
-* being 67 face with these issues
-* know many similar aging people have undergo similar especially being alone or rather with little time with family,
-  due vast distances from family and loved ones
-* find being alone does not have to be being lonely or isolated
-* infact being queitly alone can also be enriching, fulfulling in a different phase of ones life
+* being 67 i face with these issues
+* many aging people have undergo or will undergo similar issues of being alone or rather have little time with family,
+  friends due vast geographical distances or from family and loved ones, or contrains of modern day living
+* living alone does not have to be lonesome or feel being isolated
+* rather living alone can also be enriching, fulfulling in ones golden years phase of ones life
 
 
 Why is this topic important or interesting?
-* it is one way to go through or tread on new areas /  grounds smtoionally, spiritually
-* being independant and fulfiling on these areas within oneself - as in look for peace and happiness within
+* treading or going through for some this new phase of ones life, emtionally, spiritually can be challenging
+* being independant and fulfiling on these areas  - as in look for peace and happiness within could be useful
 * omit or reduce dependancy of source of my own happiness and freedom of the spirit and the mind
 * it may sound woodooish or spiritually inclined (maybe it is in some sense) but i feel one goes back to self as one ages
 
@@ -42,7 +42,7 @@ Why is this topic important or interesting?
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
 SOLUTION -Process of usiing it 
-It is not a solution per say but more of a guide.  A guide really for one who may find it workable , complementary to one's one way of going about one daily life being an elderly.   Perhaps the guide is more of a methodology that might make another feel not so alone or sharing alternative ways to cope with living as an elderly person.  Or not !
+It is not a solution per say but more of a guide.  A guide that for some may find it workable , complementary to one's one way of going about one daily life being an elderly.  It could be a methodology that might make another feel not so alone or sharing alternative ways to cope with living as an elderly person.  Or not !
 
 
 
